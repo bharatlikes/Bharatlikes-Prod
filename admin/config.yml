@@ -1,6 +1,7 @@
+
 backend:
   name: github
-  repo: yourusername/your-repository-name
+  repo: bharatlikes/Bharatlikes-Prod
   branch: main
 
 media_folder: "images/uploads"
